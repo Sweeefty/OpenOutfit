@@ -1,0 +1,509 @@
+.desktop-1 * {
+    box-sizing: border-box;
+  }
+  .desktop-1 {
+    background: #f2f2f2;
+    width: 1559px;
+    height: 3917px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 300px;
+  }
+  .rectangle-1 {
+    background: #aeb8b9;
+    width: 1559px;
+    height: 133px;
+    position: absolute;
+    left: 0px;
+    top: -1px;
+  }
+  .shop {
+    color: #d50a0a;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 24px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 1161px;
+    top: 51px;
+    width: 56px;
+    height: 36px;
+  }
+  .home {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 24px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 969px;
+    top: 51px;
+    width: 69px;
+    height: 36px;
+  }
+  .open-outfits {
+    color: #080707;
+    text-align: left;
+    font-family: "IrishGrover-Regular", sans-serif;
+    font-size: 48px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 48px;
+    top: 34px;
+    width: 270px;
+    height: 72px;
+  }
+  .rectangle-2 {
+    background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+    width: 191px;
+    height: 100px;
+    position: absolute;
+    left: 48px;
+    top: 213px;
+    object-fit: cover;
+  }
+  .rectangle-3 {
+    background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+    width: 243px;
+    height: 100px;
+    position: absolute;
+    left: 318px;
+    top: 213px;
+    object-fit: cover;
+  }
+  .rectangle-4 {
+    width: 158px;
+    height: 100px;
+    position: absolute;
+    left: 613px;
+    top: 213px;
+  }
+  .rectangle-5 {
+    background: #d9d9d9;
+    width: 181px;
+    height: 111px;
+    position: absolute;
+    left: 640px;
+    top: 213px;
+  }
+  .image-1 {
+    width: 182px;
+    height: 111px;
+    position: absolute;
+    left: 639px;
+    top: 213px;
+    object-fit: cover;
+  }
+  .rectangle-6 {
+    background: #d9d9d9;
+    width: 178px;
+    height: 100px;
+    position: absolute;
+    left: 1072px;
+    top: 213px;
+  }
+  .rectangle-10 {
+    background: #d9d9d9;
+    width: 178px;
+    height: 100px;
+    position: absolute;
+    left: 1072px;
+    top: 213px;
+  }
+  .rectangle-7 {
+    background: #d9d9d9;
+    width: 178px;
+    height: 100px;
+    position: absolute;
+    left: 1072px;
+    top: 213px;
+  }
+  .rectangle-8 {
+    background: #d9d9d9;
+    width: 177px;
+    height: 100px;
+    position: absolute;
+    left: 1322px;
+    top: 214px;
+  }
+  .femme {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 1351px;
+    top: 240px;
+    width: 148px;
+  }
+  .homme {
+    color: #d50a0a;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - -322.5px);
+    top: 240px;
+    width: 148px;
+    height: 47px;
+  }
+  .chaussures {
+    color: #d50a0a;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 64px;
+    line-height: 150.07%;
+    font-weight: 900;
+    position: absolute;
+    left: 138px;
+    top: 474px;
+  }
+  .v-tements {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 64px;
+    line-height: 150.07%;
+    font-weight: 900;
+    position: absolute;
+    left: 682px;
+    top: 474px;
+  }
+  .line-1 {
+    border-style: solid;
+    border-color: #d50a0a;
+    border-width: 6px 0 0 0;
+    width: 379px;
+    height: 0px;
+    position: absolute;
+    left: 138px;
+    top: 555px;
+  }
+  .image-4 {
+    border-radius: 65px;
+    width: 684px;
+    height: 408px;
+    position: absolute;
+    left: 27px;
+    top: 1376px;
+    object-fit: cover;
+  }
+  .rectangle-11 {
+    background: #d9d9d9;
+    width: 886px;
+    height: 311px;
+    position: absolute;
+    left: 613px;
+    top: 606px;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-64-77-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 649px;
+    top: 643px;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-64-77-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-64-77-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-64-77-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .rectangle-12 {
+    background: #d9d9d9;
+    width: 848px;
+    height: 309px;
+    position: absolute;
+    left: 27px;
+    top: 1005px;
+  }
+  .les-mod-les-adidas-yeezy-mettent-tout-le-monde-d-accord-les-yeezy-boost-350-fusionnent-technologies-de-pointe-semelle-boost-et-empeigne-en-primeknit-et-une-silhouette-rac-e-sign-e-kanye-west-79-99-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 50px;
+    top: 1033px;
+    width: 796px;
+    height: 239px;
+  }
+  .les-mod-les-adidas-yeezy-mettent-tout-le-monde-d-accord-les-yeezy-boost-350-fusionnent-technologies-de-pointe-semelle-boost-et-empeigne-en-primeknit-et-une-silhouette-rac-e-sign-e-kanye-west-79-99-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .les-mod-les-adidas-yeezy-mettent-tout-le-monde-d-accord-les-yeezy-boost-350-fusionnent-technologies-de-pointe-semelle-boost-et-empeigne-en-primeknit-et-une-silhouette-rac-e-sign-e-kanye-west-79-99-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .les-mod-les-adidas-yeezy-mettent-tout-le-monde-d-accord-les-yeezy-boost-350-fusionnent-technologies-de-pointe-semelle-boost-et-empeigne-en-primeknit-et-une-silhouette-rac-e-sign-e-kanye-west-79-99-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .rectangle-13 {
+    background: #d9d9d9;
+    border-radius: 25px;
+    width: 821px;
+    height: 303px;
+    position: absolute;
+    left: 718px;
+    top: 1440px;
+  }
+  .revendique-ton-c-t-rebelle-avec-la-nike-air-max-plus-un-mod-le-air-novateur-qui-stabilise-et-amortit-incroyablement-le-pied-avec-son-mesh-respirant-ses-d-tails-en-plastique-l-gants-et-ses-lignes-ondul-es-inspir-es-du-mod-le-d-origine-cette-sneaker-affiche-un-style-rebelle-209-99-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 725px;
+    top: 1448px;
+    width: 821px;
+    height: 287px;
+  }
+  .revendique-ton-c-t-rebelle-avec-la-nike-air-max-plus-un-mod-le-air-novateur-qui-stabilise-et-amortit-incroyablement-le-pied-avec-son-mesh-respirant-ses-d-tails-en-plastique-l-gants-et-ses-lignes-ondul-es-inspir-es-du-mod-le-d-origine-cette-sneaker-affiche-un-style-rebelle-209-99-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .revendique-ton-c-t-rebelle-avec-la-nike-air-max-plus-un-mod-le-air-novateur-qui-stabilise-et-amortit-incroyablement-le-pied-avec-son-mesh-respirant-ses-d-tails-en-plastique-l-gants-et-ses-lignes-ondul-es-inspir-es-du-mod-le-d-origine-cette-sneaker-affiche-un-style-rebelle-209-99-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .revendique-ton-c-t-rebelle-avec-la-nike-air-max-plus-un-mod-le-air-novateur-qui-stabilise-et-amortit-incroyablement-le-pied-avec-son-mesh-respirant-ses-d-tails-en-plastique-l-gants-et-ses-lignes-ondul-es-inspir-es-du-mod-le-d-origine-cette-sneaker-affiche-un-style-rebelle-209-99-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .image-5 {
+    border-radius: 41px;
+    width: 646px;
+    height: 426px;
+    position: absolute;
+    left: 831px;
+    top: 1849px;
+    object-fit: cover;
+  }
+  .rectangle-14 {
+    background: #d9d9d9;
+    border-radius: 34px;
+    width: 793px;
+    height: 232px;
+    position: absolute;
+    left: 27px;
+    top: 1963px;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-adidas-adifom-q-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-106-95-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 42px;
+    top: 1963px;
+    width: 773px;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-adidas-adifom-q-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-106-95-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-adidas-adifom-q-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-106-95-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-adidas-adifom-q-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-106-95-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .rectangle-16 {
+    background: #d9d9d9;
+    border-radius: 59px;
+    width: 733px;
+    height: 354px;
+    position: absolute;
+    left: 40px;
+    top: 2926px;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-la-air-jordan-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-122-99-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 62px;
+    top: 2951px;
+    width: 686px;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-la-air-jordan-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-122-99-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-la-air-jordan-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-122-99-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .decouvre-les-nouvelles-collections-exclusives-de-la-air-jordan-sois-le-premier-mettre-les-mains-sur-les-sneackers-et-articles-tendances-du-moments-122-99-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .image-6 {
+    border-radius: 61px;
+    width: 804px;
+    height: 399px;
+    position: absolute;
+    left: 11px;
+    top: 2347px;
+    object-fit: cover;
+  }
+  .rectangle-15 {
+    background: #d9d9d9;
+    border-radius: 36px;
+    width: 643px;
+    height: 429px;
+    position: absolute;
+    left: 831px;
+    top: 2353px;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-91-99-eur-https-www-amazon-fr {
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+    position: absolute;
+    left: 894px;
+    top: 2358px;
+    width: 560px;
+    height: 419px;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-91-99-eur-https-www-amazon-fr-span {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-91-99-eur-https-www-amazon-fr-span2 {
+    color: #d6cd00;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .d-couvrez-les-derni-res-collections-puma-en-ligne-livraison-gratuite-tombez-sous-le-charme-dela-co-llection-puma-trouvez-votre-style-sur-openoutfits-com-91-99-eur-https-www-amazon-fr-span3 {
+    color: #000000;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    line-height: 150.07%;
+    font-weight: 400;
+  }
+  .image-7 {
+    border-radius: 23px;
+    width: 646px;
+    height: 375px;
+    position: absolute;
+    left: 830px;
+    top: 2905px;
+    object-fit: cover;
+  }
+  .ellipse-1 {
+    background: #a69f9f;
+    border-radius: 50%;
+    width: 193px;
+    height: 165px;
+    position: absolute;
+    left: 1153px;
+    top: 3619px;
+  }
+  ._2 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    position: absolute;
+    left: 1233px;
+    top: 3662px;
+    width: 23px;
+  }
+  .polygon-1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1443.99px;
+    top: 3650px;
+    transform: translate(-74.88px, 7.88px);
+    overflow: visible;
+  }
+  .line-2 {
+    width: 344.51px;
+    height: 1.19px;
+    position: absolute;
+    left: 681.99px;
+    top: 552.06px;
+    transform: translate(0px, -3px);
+    overflow: visible;
+  }
+  
