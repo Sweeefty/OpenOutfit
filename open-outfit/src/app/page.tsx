@@ -1,95 +1,37 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+/* eslint-disable react/no-unescaped-entities */
 
-export default function Home() {
+// pages/index.js
+import { Layout } from '@/components/layout';
+import { Box, Flex, Heading, Text } from '@chakra-ui/react';
+
+function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
+    <Layout>
+      <Flex align="center" justify="center" h="100vh" bg="#fff" color="#3454D1">
+        <Box p={8} maxW="600px">
+          <Heading mb={4} fontSize="3xl" color="#74121D">
+            Bienvenue chez Open-Outfit
+          </Heading>
+          <Text fontSize="lg" color="#74121D">
+            OpenOutfit propose une sélection tendance de vêtements pour hommes, femmes et enfants. Notre plateforme en
+            ligne garantit une expérience de shopping fluide avec des articles de qualité, couvrant toutes les occasions
+            et les dernières tendances de la mode.
+          </Text>
+        </Box>
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore starter templates for Next.js.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
+        <Box p={8} maxW="400px" bg="#74121D" color="#fff">
+          <Heading mb={4} fontSize="2xl">
+            Nos Retours Clients
+          </Heading>
+          <Text>
+            "OpenOutfit est mon site préféré pour la mode en ligne. La variété des vêtements, la qualité des produits et
+            la simplicité du processus de commande en font une expérience de shopping incontournable. Je recommande
+            vivement!"
+          </Text>
+        </Box>
+      </Flex>
+    </Layout>
   );
 }
+
+export default Home;
