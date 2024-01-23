@@ -1,6 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-
-// pages/index.js
 import { Layout } from '@/components/layout';
 import { Box, Flex, Heading, Text } from '@chakra-ui/react';
 

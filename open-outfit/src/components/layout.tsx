@@ -29,6 +29,9 @@ export default function Header() {
         <Button as={NextLink} href="/Articles" variant="ghost" bg="#666666" mr={10}>
           Nos Articles
         </Button>
+        <Button as={NextLink} href="/About" variant="ghost" bg="#666666" mr={10}>
+          A Propos
+        </Button>
         <Button variant="ghost" bg="#666666" mr={10} onClick={openCartModal}>
           Panier
         </Button>
