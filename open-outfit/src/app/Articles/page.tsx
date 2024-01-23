@@ -11,63 +11,63 @@ function Product(){
             name: "T-shirt Adidas Vintage",
             price: 30,
             description: "Magnifique t-shirt Adidas Vintage des années 90",
-            category: 'Top'
+            category: 'Haut'
         },
         {
             id: 2,
             name: "T-shirt Nike Vintage",
             price: 35,
             description: "Magnifique t-shirt Nike Vintage des années 90",
-            category: 'Top'
+            category: 'Haut'
         },
         {
             id: 3,
             name: "T-shirt Puma Vintage",
             price: 30,
             description: "Magnifique t-shirt Puma Vintage des années 90",
-            category: 'Top'
+            category: 'Haut'
         },
         {
             id: 4,
             name: "Baggy jean clair",
             price: 70,
             description: "Magnifique baggy jean clair des années 90",
-            category: 'Bottom'
+            category: 'Bas'
         },
         {
             id: 5,
             name: "Pantalon noir 90's",
             price: 70,
             description: "Magnifique pantalon noir des années 90",
-            category: 'Bottom'
+            category: 'Bas'
         },
         {
             id: 6,
             name: "Short troué",
             price: 55,
             description: "Magnifique short troué des années 90",
-            category: 'Bottom'
+            category: 'Bas'
         },
         {
             id: 7,
             name: "Jordan 1 Chicago",
             price: 250,
             description: "Magnifique Jordan 1 Chicago des années 90",
-            category: 'Shoes'
+            category: 'Chaussures'
         },
         {
             id: 8,
             name: "Converse All Star",
             price: 80,
             description: "converse All star des années 90",
-            category: 'Shoes'
+            category: 'Chaussures'
         },
         {
             id: 9,
             name: "Reebok Pump",
             price: 110,
             description: "Magnifique Reebok Pump des années 90",
-            category: 'Shoes'
+            category: 'Chaussures'
         }
     ]
 
@@ -78,7 +78,7 @@ function Product(){
         ? products
         : products.filter((product) => product.category === selectedCategory);
 
-    const categories = ['Tout', 'Top', 'Bottom', 'Shoes'];
+    const categories = ['Tout', 'Haut', 'Bas', 'Chaussures'];
 
     return (
     
@@ -106,6 +106,7 @@ function Product(){
                     borderRadius="lg"
                     overflow="hidden"
                     m="4"
+                    bg="#74121D"
                 >
                     <Box height="200px" bg="gray.200"></Box>
 
@@ -123,7 +124,7 @@ function Product(){
                             {product.description}
                         </Text>
 
-                        <Button mt="3" bg="#74121D">
+                        <Button mt="3" bg="gray">
                             Ajouter au panier
                         </Button>
                     </Box>
