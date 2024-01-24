@@ -5,7 +5,6 @@ import NextLink from 'next/link';
 import { useState } from 'react';
 
 export default function Header() {
-  const [isCartModalOpen, setCartModalOpen] = useState(false);
 
   return (
     <Flex align="center" justify="space-between" p={4} bg="#74121D">
