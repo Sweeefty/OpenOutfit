@@ -7,14 +7,6 @@ import { useState } from 'react';
 export default function Header() {
   const [isCartModalOpen, setCartModalOpen] = useState(false);
 
-  const openCartModal = () => {
-    setCartModalOpen(true);
-  };
-
-  const closeCartModal = () => {
-    setCartModalOpen(false);
-  };
-
   return (
     <Flex align="center" justify="space-between" p={4} bg="#74121D">
       <Box>
