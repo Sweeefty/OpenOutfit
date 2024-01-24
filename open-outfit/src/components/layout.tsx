@@ -32,20 +32,7 @@ export default function Header() {
         <Button as={NextLink} href="/About" variant="ghost" bg="#666666" mr={10}>
           A Propos
         </Button>
-        <Button variant="ghost" bg="#666666" mr={10} onClick={openCartModal}>
-          Panier
-        </Button>
       </Flex>
-
-      <Modal isOpen={isCartModalOpen} onClose={closeCartModal}>
-        <ModalOverlay />
-        <ModalContent>
-          <ModalHeader>Mon Panier</ModalHeader>
-          <ModalCloseButton />
-          <ModalBody>
-          </ModalBody>
-        </ModalContent>
-      </Modal>
     </Flex>
   );
 }
